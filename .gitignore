@@ -1,0 +1,20 @@
+# Compiled executables
+*.exe
+*.out
+a.out
+
+# Fortran module files
+*.mod
+
+# Large data and output files
+*.dat
+*.xyz
+
+# macOS installer
+*.dmg
+
+# macOS system files
+.DS_Store
+
+# Save files
+*.sav
